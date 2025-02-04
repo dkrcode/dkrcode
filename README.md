@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi welcome to dkrcode.
 
 <!--
 **dkrcode/dkrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
